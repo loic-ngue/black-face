@@ -1,0 +1,14 @@
+[theme]
+base = "dark"
+primaryColor = "#FF4D5E"
+backgroundColor = "#0A0E16"
+secondaryBackgroundColor = "#121826"
+textColor = "#E6E9EF"
+borderColor = "#232B3B"
+font = "'Inter':https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "'Space Grotesk':https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap"
+baseRadius = "medium"
+showWidgetBorder = true
+
+[server]
+maxUploadSize = 500
